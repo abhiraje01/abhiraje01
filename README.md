@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.freepik.com/free-vector/gradient-coding-logo-template_23-2148809439.jpg?ga=GA1.1.1060155669.1739685643&semt=ais_hybrid" height="30" alt="programmer logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=96&id=13679&format=png" height="30" alt="java logo"  />
