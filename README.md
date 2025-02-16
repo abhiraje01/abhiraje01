@@ -50,6 +50,11 @@
 
 
 ###
+<div align="left">
+  <h2>Certifications</h2>
+  <p>1.Dsa Completion from GDSC.</p>
+  <p>Placement Preparation Programme, from IIT Bombay.</p>
+</div>
 
 <div align="left">
   <h2>Connect With Me</h2>
@@ -62,10 +67,7 @@
 
 
 ###
-<div align="left">
-  <h2>Certifications</h2>
-  <p>1.Dsa Completion from GDSC</p>
-###
+
 
 
 ###
