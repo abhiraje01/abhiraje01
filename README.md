@@ -40,7 +40,9 @@
   <p>➡️ <strong>Bachelor of Engineering</strong></p>
   <p>Savitribai Phule Pune University (2022 - 2026)</p>
 </div>
-###
+
+
+
 <div align="left">
 <h2>Projects</h2>
 <p>Sql Project</p>
@@ -50,6 +52,7 @@
 ###
 
 <div align="center">
+  <h2>Connect With Me</h2>
   <a href="https://www.linkedin.com/in/abhiraje-nimbalkar-7a972525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
