@@ -32,7 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abhiraje01/abhiraje01/output/snake.svg" alt="Snake animation" />
 
 ###
 
