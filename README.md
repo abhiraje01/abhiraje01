@@ -5,7 +5,7 @@
 <div align="left">
   <img src="https://img.icons8.com/?size=96&id=13679&format=png" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/128/5815/5815809.png" height="30" alt="java logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
