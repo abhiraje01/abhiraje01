@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" height="30" alt="vscode logo"  />
+  <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" height="30" alt="gitbash logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=96&id=9OGIyU8hrxW5&format=png" height="30" alt="vscode logo"  />
   <img width="12" />
