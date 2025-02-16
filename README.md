@@ -35,6 +35,13 @@
 
 ###
 
+<div align="center">
+  <h2>Education</h2>
+  <p>➡️ <strong>Bachelor of Engineering</strong></p>
+  <p>Savitribai Phule Pune University (2022 - 2026)</p>
+</div>
+
+
 
 ###
 
