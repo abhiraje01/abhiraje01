@@ -62,7 +62,9 @@
 
 
 ###
-
+<div align="left">
+  <h2>Certifications</h2>
+  <p>1.Dsa Completion from GDSC</p>
 ###
 
 
