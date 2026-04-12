@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhiraje Nimbalkar and I'm a Software Developer, from Pune</h2>
+<h2 align="left">Hi 👋! My name is Abhiraje Nimbalkar and I'm a Technical Enthusiast, from Pune</h2>
 
 ###
 
