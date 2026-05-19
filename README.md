@@ -44,8 +44,25 @@
 
 
 <div align="left">
-<h2>Projects</h2>
-<p>Sql Project</p>
+  <h2>Projects</h2>
+
+  <p>
+    <a href="https://github.com/abhiraje01/employee_management_system">
+      Employee Management System
+    </a> - Java Project
+  </p>
+
+  <p>
+    <a href="https://github.com/abhiraje01/Smart-Habit-Tracker">
+      Smart Habit Tracker
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/abhiraje01/Temperature-Converter">
+      Temperature Converter
+    </a> - HTML, CSS, JavaScript
+  </p>
 </div>
 
 
