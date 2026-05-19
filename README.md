@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" height="30" alt="gitbash logo"  />
+  <img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" height="30" alt="gitbash logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=96&id=9OGIyU8hrxW5&format=png" height="30" alt="vscode logo"  />
   <img width="12" />
