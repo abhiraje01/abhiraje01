@@ -70,7 +70,8 @@
 <div align="left">
   <h2>Certifications</h2>
   <p>1.Dsa Completion from GDSC.</p>
-  <p>2.Placement Preparation Programme, from IIT Bombay.</p>
+  <p>2.Postman API Fundamentals Student Expert Cert.</p>
+  <p>3.Placement Preparation Programme, from IIT Bombay.</p>
 </div>
 
 <div align="left">
