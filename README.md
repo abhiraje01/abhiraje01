@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-   <img src="https://cdn-icons-png.flaticon.com/256/1051/1051377.png" height="30" alt="github logo"  />
+   <img src="https://th.bing.com/th/id/OIP._5HO7IRpuomDh-FQh08oBQHaHk?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
