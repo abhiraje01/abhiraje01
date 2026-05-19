@@ -55,7 +55,7 @@
   <p>
     <a href="https://github.com/abhiraje01/Smart-Habit-Tracker">
       Smart Habit Tracker
-    </a>
+    </a> - Java Spring Boot Project with AI Integration
   </p>
 
   <p>
